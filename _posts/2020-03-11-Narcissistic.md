@@ -2,9 +2,8 @@
 title: "Millennial’s: More Narcissistic than Other Generations?"
 date: 2020-03-11
 tags: [data wrangling, data science]
-header:
-  image: "/images/1_x0wDucR4cY8TDdZQlki5xw.jpeg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+
+excerpt: "Data Wrangling, Data Science"
 mathjax: "true"
 ---
 
