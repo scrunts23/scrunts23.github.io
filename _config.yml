@@ -13,9 +13,9 @@ title                    : "Ryan Davidson"
 title_separator          : "-"
 name                     : "Ryan Davidson"
 description              : "Data Science Portfolio"
-url                      : http://www.ryan-davidson.com/
+url                      : #http://www.ryan-davidson.com/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : scrunts23/scrunts23.github.io
+repository               : #scrunts23/scrunts23.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
